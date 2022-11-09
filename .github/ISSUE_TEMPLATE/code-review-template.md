@@ -9,7 +9,7 @@ assignees: ''
 
 ### README
 
-[Does the README fully describe the project?]
+[Does the README describe the project using the subheadings: Why?, What?, How? i.e. Why have you created this repo, what does it do, how does it do it?]
 
 ### User stories
 
